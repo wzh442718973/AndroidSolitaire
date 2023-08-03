@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_money.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/money.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_cardback.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/cardback.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundxuancai.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundxuancai.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_help.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_help.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_exit.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_exit.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_settingadvancebackground.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/settingadvancebackground.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundxuancai_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundxuancai_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_continue_pre1ssed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/continue_pre1ssed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_logo.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/logo.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundtree_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundtree_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_mainmenu.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_mainmenu.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/layout_main.xml.flat",
+        "source": "com.hci.exp.app-main-33:/layout/main.xml"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_modelselectbackgroundwoodpanel.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/modelselectbackgroundwoodpanel.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundgreen_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundgreen_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_aboutbackground.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/aboutbackground.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundyingmu.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundyingmu.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_check_disable.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/check_disable.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_exit.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_exit.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_new.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_new.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundyingmu_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundyingmu_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_memory.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/memory.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundwoodpanel.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundwoodpanel.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_help_pressed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/help_pressed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_btn_pressed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/btn_pressed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_new_pressed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/new_pressed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club12.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club12.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_flip3.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/flip3.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_flip1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/flip1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_back.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/back.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_empty.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/empty.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_option.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_option.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundtree.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundtree.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_resume.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_resume.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundwoodpanel_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundwoodpanel_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundclouds.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundclouds.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_m_options.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/m_options.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club2.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club2.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart8.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart8.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_button_unpress.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/button_unpress.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_button.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/button.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_exit_pressed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/exit_pressed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_help.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_help.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h5.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h5.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_h1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/h1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundclouds_small.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundclouds_small.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_continue.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_continue.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundgreen.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundgreen.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.hci.exp.app-main-33:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club11.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club11.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c6.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c6.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_backgroundmainmenu.jpg.flat",
+        "source": "com.hci.exp.app-main-33:/raw/backgroundmainmenu.jpg"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.hci.exp.app-main-33:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_s9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/s9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_club7.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/club7.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_heart13.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/heart13.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_check_enable.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/check_enable.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_d1.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/d1.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_deckbackground.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/deckbackground.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_spade4.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/spade4.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_diamond10.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/diamond10.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_c9.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/c9.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_about.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_about.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_about_pressed.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/about_pressed.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.hci.exp.app-main-33:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_pause.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/pause.png"
+    },
+    {
+        "merged": "com.hci.exp.app-merged_res-31:/raw_mainview_new.png.flat",
+        "source": "com.hci.exp.app-main-33:/raw/mainview_new.png"
+    }
+]

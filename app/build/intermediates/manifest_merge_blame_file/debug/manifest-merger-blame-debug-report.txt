@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fmagical.mystical.airytable"
+4    android:versionCode="1859"
+5    android:versionName="1.1.5" >
+6
+7    <uses-sdk
+7-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:7:5-43
+8        android:minSdkVersion="22"
+8-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:7:15-40
+9        android:targetSdkVersion="33" />
+9-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:7:5-43
+10
+11    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+11-->[com.android.installreferrer:installreferrer:2.2] C:\Users\Jack\.gradle\caches\transforms-3\4f9fdbafd70e95d19d7254687b9d59c0\transformed\jetified-installreferrer-2.2\AndroidManifest.xml:9:5-110
+11-->[com.android.installreferrer:installreferrer:2.2] C:\Users\Jack\.gradle\caches\transforms-3\4f9fdbafd70e95d19d7254687b9d59c0\transformed\jetified-installreferrer-2.2\AndroidManifest.xml:9:22-107
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.fmagical.mystical.airytable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.fmagical.mystical.airytable.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:9:5-22:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.9.0] C:\Users\Jack\.gradle\caches\transforms-3\6ef58fcaa38c32f96ba80f21d3284ad3\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+21        android:debuggable="true"
+22        android:icon="@drawable/ic_launcher"
+22-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:10:9-45
+23        android:label="@string/app_name"
+23-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:11:9-41
+24        android:testOnly="true" >
+25        <activity
+25-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:12:9-21:20
+26            android:name="com.hci.exp.AndroidSolitaireActivity"
+26-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:14:13-53
+27            android:exported="true"
+27-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:13:13-36
+28            android:label="@string/app_name"
+28-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:15:13-45
+29            android:screenOrientation="landscape"
+29-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:15:46-83
+30            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+30-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:15:84-142
+31            <intent-filter>
+31-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:16:13-20:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:17:17-69
+32-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:17:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:19:17-77
+34-->W:\github\AndroidSolitaire\app\src\main\AndroidManifest.xml:19:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Jack\.gradle\caches\transforms-3\a5c780ae03cec645fb9c25bfa2588cda\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:9-22:45
+38            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+38-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Jack\.gradle\caches\transforms-3\a5c780ae03cec645fb9c25bfa2588cda\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:19-85
+39            android:exported="false"
+39-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Jack\.gradle\caches\transforms-3\a5c780ae03cec645fb9c25bfa2588cda\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:22:19-43
+40            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+40-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Jack\.gradle\caches\transforms-3\a5c780ae03cec645fb9c25bfa2588cda\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:21:19-78
+41
+42        <meta-data
+42-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Jack\.gradle\caches\transforms-3\59a94c633a4a638ae56cded4c584bb88\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+43            android:name="com.google.android.gms.version"
+43-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Jack\.gradle\caches\transforms-3\59a94c633a4a638ae56cded4c584bb88\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+44            android:value="@integer/google_play_services_version" />
+44-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Jack\.gradle\caches\transforms-3\59a94c633a4a638ae56cded4c584bb88\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+45
+46        <provider
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+47            android:name="androidx.startup.InitializationProvider"
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+48            android:authorities="com.fmagical.mystical.airytable.androidx-startup"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+49            android:exported="false" >
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+50            <meta-data
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+52                android:value="androidx.startup" />
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jack\.gradle\caches\transforms-3\e1a586f87b5c0c406119ac511d87eb12\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+53            <meta-data
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jack\.gradle\caches\transforms-3\f4ad68d5e15f9fc1d696f0ae09c5453c\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jack\.gradle\caches\transforms-3\f4ad68d5e15f9fc1d696f0ae09c5453c\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+55                android:value="androidx.startup" />
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jack\.gradle\caches\transforms-3\f4ad68d5e15f9fc1d696f0ae09c5453c\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+56        </provider>
+57    </application>
+58
+59</manifest>
